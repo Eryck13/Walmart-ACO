@@ -1,0 +1,18 @@
+[{
+    "ProdId": "6000201919506",
+    "Sku":["6000201919506"],
+    "Email": "",
+    "Password":"",
+    "OG":"67678676686565",
+    "Postal":"",
+    "Webhook":"",
+    "Delay": 0,
+    "Quantity":1,
+    "RetryDelay":1,
+    "RetryAmount":3,
+    "Precart": true,
+    "Fast":false,
+    "Proxies":[""],
+    "PriceLimit":75
+
+}]
